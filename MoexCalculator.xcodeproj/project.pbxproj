@@ -12,6 +12,7 @@
 		8E3C98972D7788BA00135A4B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E3C98962D7788BA00135A4B /* Assets.xcassets */; };
 		8E3C989A2D7788BA00135A4B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8E3C98992D7788BA00135A4B /* Preview Assets.xcassets */; };
 		8E3C98A12D778B8A00135A4B /* Currency.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3C98A02D778B8A00135A4B /* Currency.swift */; };
+		8E3C98A32D778D4A00135A4B /* CalculatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8E3C98A22D778D4A00135A4B /* CalculatorModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		8E3C98962D7788BA00135A4B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8E3C98992D7788BA00135A4B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8E3C98A02D778B8A00135A4B /* Currency.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Currency.swift; sourceTree = "<group>"; };
+		8E3C98A22D778D4A00135A4B /* CalculatorModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				8E3C98922D7788B900135A4B /* MoexCalculatorApp.swift */,
 				8E3C98942D7788B900135A4B /* ContentView.swift */,
 				8E3C98A02D778B8A00135A4B /* Currency.swift */,
+				8E3C98A22D778D4A00135A4B /* CalculatorModel.swift */,
 				8E3C98962D7788BA00135A4B /* Assets.xcassets */,
 				8E3C98982D7788BA00135A4B /* Preview Content */,
 			);
@@ -143,6 +146,7 @@
 				8E3C98952D7788B900135A4B /* ContentView.swift in Sources */,
 				8E3C98A12D778B8A00135A4B /* Currency.swift in Sources */,
 				8E3C98932D7788B900135A4B /* MoexCalculatorApp.swift in Sources */,
+				8E3C98A32D778D4A00135A4B /* CalculatorModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

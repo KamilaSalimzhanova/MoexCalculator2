@@ -19,7 +19,7 @@ enum Currency: String, Identifiable, CaseIterable {
         
 }
 
-//typealias CurrencyRates = [Currency: Double]
+typealias CurrencyRates = [Currency: Double]
 
 struct CurrencyAmount {
     let currency: Currency
